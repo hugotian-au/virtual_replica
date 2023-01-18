@@ -1,2 +1,2 @@
-# virtual_replica_in_remote_collalloration
+# virtual_replica
 This source code is for paper Using Virtual Replicas to Improve Mixed Reality Remote Collaboration
