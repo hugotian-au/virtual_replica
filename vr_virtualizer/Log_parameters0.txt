@@ -1,0 +1,21 @@
+serial number: 668194612
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1048)
+color_rotation 0: [0.9999589,0.008983438,-0.001175581,-0.008811411,0.9944856,0.104502,0.002107886,-0.1044874,0.994524]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1049)
+color_translation 0: [-31.9997,-1.683793,4.06301]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1050)
+color_intrinsics 0: [636.2849,368.4779,610.5936,610.4366,0.4298557,-2.486617,1.437623,0.3112225,-2.316535,1.3685,0,0,-0.0002680472,0.0009450538,0]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1051)
+depth_rotation 0: [1,0,0,0,1,0,0,0,1]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1052)
+depth_translation 0: [0,0,0]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1053)
+depth_intrinsics 0: [319.077,336.7428,503.8394,503.8292,3.438665,2.532808,0.1421088,3.767107,3.663832,0.7215018,0,0,-5.954718E-05,0.0001001758,0]
+UnityEngine.MonoBehaviour:print(Object)
+akplay:Start() (at Assets/AK_RealityZone/Scripts/akplay.cs:1054)

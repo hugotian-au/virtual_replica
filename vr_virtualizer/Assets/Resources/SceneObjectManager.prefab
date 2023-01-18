@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4903661274665390389
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9084626471423971749}
+  - component: {fileID: 2061162918068211423}
+  - component: {fileID: 378706153734446345}
+  m_Layer: 0
+  m_Name: SceneObjectManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9084626471423971749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4903661274665390389}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.020945668, y: 0.87032896, z: 0.0034683794}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2061162918068211423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4903661274665390389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  Synchronization: 3
+  OwnershipTransfer: 0
+  observableSearch: 2
+  ObservedComponents: []
+  sceneViewId: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &378706153734446345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4903661274665390389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1dd2ff10c4aa4b488472ea119ac6215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneBlock1: {fileID: 7816937879699956924, guid: 2a55d18dc0329a24b9dc7ebdbb6bf944,
+    type: 3}
+  sceneBlock2: {fileID: 4949375554216925386, guid: 085cf3268d766ed489b19bd0f43309db,
+    type: 3}
+  sceneBlock3: {fileID: 5712257937470382581, guid: 2095fbd191eee5c48b62a456bda1931a,
+    type: 3}
+  sceneBlock4: {fileID: 4291610873147383631, guid: 8d4d618271ae4eb47a1022131bdaee9a,
+    type: 3}
+  sceneBlock5: {fileID: 652060320557691155, guid: bcde47f75b6f98445bbe206de9ca33f3,
+    type: 3}
+  sceneBlock6: {fileID: 5728610683853351032, guid: 3eb681e5ccce58543b23f10ee5e13e27,
+    type: 3}
+  sceneBlock7: {fileID: 1880211413605541910, guid: 691ffe7095c60424daaa2e3cc5141572,
+    type: 3}

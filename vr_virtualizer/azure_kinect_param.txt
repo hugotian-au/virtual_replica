@@ -1,0 +1,21 @@
+Depth camera supported operating modes
+Azure Kinect DK integrates a Microsoft designed 1-Megapixel Time-of-Flight (ToF) depth camera using the image sensor presented at ISSCC 2018. The depth camera supports the modes indicated below:
+
+Mode	Resolution	FoI	FPS	Operating range*	Exposure time
+NFOV unbinned	640x576	75°x65°	0, 5, 15, 30	0.5 - 3.86 m	12.8 ms
+NFOV 2x2 binned (SW)	320x288	75°x65°	0, 5, 15, 30	0.5 - 5.46 m	12.8 ms
+WFOV 2x2 binned	512x512	120°x120°	0, 5, 15, 30	0.25 - 2.88 m	12.8 ms
+WFOV unbinned	1024x1024	120°x120°	0, 5, 15	0.25 - 2.21 m	20.3 ms
+Passive IR	1024x1024	N/A	0, 5, 15, 30	N/A	1.6 ms
+
+
+Color camera supported operating modes
+Azure Kinect DK includes an OV12A10 12MP CMOS sensor rolling shutter sensor. The native operating modes are listed below:
+
+RGB Camera Resolution (HxV)	Aspect Ratio	Format Options	Frame Rates (FPS)	Nominal FOV (HxV)(post-processed)
+3840x2160	16:9	MJPEG	0, 5, 15, 30	90°x59°
+2560x1440	16:9	MJPEG	0, 5, 15, 30	90°x59°
+1920x1080	16:9	MJPEG	0, 5, 15, 30	90°x59°
+1280x720	16:9	MJPEG/YUY2/NV12	0, 5, 15, 30	90°x59°
+4096x3072	4:3	MJPEG	0, 5, 15	90°x74.3°
+2048x1536	4:3	MJPEG	0, 5, 15, 30	90°x74.3°

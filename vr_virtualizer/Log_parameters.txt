@@ -1,0 +1,12 @@
+AKPlugin Thread 0: starting grab thread: 0
+AKPlugin Thread 0: camera config color format: 3
+AKPlugin Thread 0: camera config color resolution: 1
+AKPlugin Thread 0: camera config depth mode: 4
+cleaning up!
+joining thread: 0 with joinablility: 1
+AKPlugin Thread 0: completed grab thread: 0
+completed joining thread: 0
+Completed Closing Camera threads
+
+colorExtrinsics = "0.99999\t-0.00407\t0.00015\t-0.03206\n0.00403\t0.99532\t0.09654\t-0.00199\n-0.00054\t-0.09654\t0.99533\t0.00397\n0.00000\t0.00000\t0.00000\t1.00000\n"
+depth_intrinsics = float[15]

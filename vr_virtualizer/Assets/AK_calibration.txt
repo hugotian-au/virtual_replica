@@ -1,0 +1,1 @@
+[{"serial":676294612,"position_x":0.0369472503662109,"position_y":0.126269102096558,"position_z":-0.222572088241577,"quaternion_x":-0.148306041955948,"quaternion_y":0,"quaternion_z":0.117804475128651,"quaternion_w":0.981899917125702}]

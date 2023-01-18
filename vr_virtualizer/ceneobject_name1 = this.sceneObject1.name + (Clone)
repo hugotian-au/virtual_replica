@@ -1,0 +1,227 @@
+[33mcommit 3dd3ce1d331d5657cb690fa35def9b3aaa070513[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 15:15:20 2022 +1030
+
+    Add oculus hand to the scene
+
+[33mcommit 754f0afc1762e81ec176ee6cd545a63a69da2bbf[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 13:26:35 2022 +1030
+
+    Disable to create the scene object after close the vr side and open again
+
+[33mcommit 119907aa91835344d8c4e746edd44c88fa7ea006[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 13:07:25 2022 +1030
+
+    Use empty gameobject to replace the local user
+
+[33mcommit b492c026005c46d6dc03406e482a6019e0fba533[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 12:39:07 2022 +1030
+
+    Set the vr oculus level to floor level
+
+[33mcommit 23ea6f0fbae8cafffac89d3b9174ff75691e71a0[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 12:05:31 2022 +1030
+
+    Fix some issues
+
+[33mcommit e2e1f564255b27157e110e165031f4f425adaabd[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 11:12:15 2022 +1030
+
+    Adjust the ar user position
+
+[33mcommit 25b1ccb4b6db217d97fce69c38e9adc51b8fd6ba[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 10:45:39 2022 +1030
+
+    Also set the local user's position and rotation to follow camera except for y axis
+
+[33mcommit 45a2357d7d3bfacc1a624c0b6767cf1dbe770040[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Mar 4 09:22:49 2022 +1030
+
+    Set relative position without impacting y axis
+
+[33mcommit cfeba5479829e663d6419aee23ac85f18df631d9[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Mar 3 12:07:03 2022 +1030
+
+    Adjust the animation setting for vr user controller
+
+[33mcommit 7c2cd6c42de8dc7732cfb4f338d9a31def82baa6[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Mar 3 11:04:19 2022 +1030
+
+    Remove room2 scene
+
+[33mcommit 1487fbf06af6282531336059417bd9ce25f07ea6[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Mar 3 10:42:50 2022 +1030
+
+    Install oculus xr plugin version 1.7.0, only this can be installed successfully
+
+[33mcommit 3b8ee9d2d8e4841ae1d0d630c5cca000c5beb756[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Wed Mar 2 10:03:06 2022 +1030
+
+    Add ovrcamerarig gameobject for supporting oculus
+
+[33mcommit 5c871d38c1088069036355fe7a03edd53321b307[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Tue Mar 1 22:34:05 2022 +1030
+
+    Add Oculus integration
+
+[33mcommit c7a39f19fa52e6b838bef813c7b5de718b490255[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Tue Mar 1 11:39:11 2022 +1030
+
+    Change kyle robot animator controller from run to walk
+
+[33mcommit 9d54f80475892c347fb06f1ec79536a1d2e22a7f[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 22:50:37 2022 +1030
+
+    Enable VR user animation
+
+[33mcommit 74f6e0485f25257c9a8479609fb0401c6dce610f[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 22:22:10 2022 +1030
+
+    Enable AR user animation
+
+[33mcommit 16a595098a0e88b4633249728a6ba1b138017bec[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 17:31:30 2022 +1030
+
+    Enable sync with function OnPhotonSerializeView
+
+[33mcommit 94e1a93aff210feb1cce4adbf5a624fdf79c515a[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 16:10:41 2022 +1030
+
+    Add VRUserController scripts
+
+[33mcommit 1801387646309c9c76dcc43e3cd94841346a9aa3[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 15:38:17 2022 +1030
+
+    Remove photon transform view and animation view
+
+[33mcommit 8d3f5357bee19fc7f71df5ab2700df99df34fd4e[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 12:01:23 2022 +1030
+
+    Get Ownership of the sceneobject
+
+[33mcommit 3e2986db7925ca4d4001bcfcdd19719e7b8357df[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 11:37:05 2022 +1030
+
+    Enable rpc to create sceneobject
+
+[33mcommit 0f5d116ee74127944d29fd2ac85e29789b881261[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sat Feb 26 11:31:24 2022 +1030
+
+    Enable rpc to create sceneobject
+
+[33mcommit 210659a48068e8e14adc02f9db3f912e55136e65[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Fri Feb 25 23:42:23 2022 +1030
+
+    Fix the issue that scen is frozen after connect the ar side
+
+[33mcommit aa3adbf31d5b47a016230c9100b1adb73a52e521[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:48:47 2022 +1030
+
+    Remove the default platform object from room scene
+
+[33mcommit 3c9f4051ba9e453e18448e13bd2471e61b9da798[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:41:35 2022 +1030
+
+    Add photon view and photon transform componenent to platform prefab
+
+[33mcommit 80e020a20fd682908ba01eccfb38cfcaf629d72d[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:38:40 2022 +1030
+
+    Add scene object instantiation scritpts
+
+[33mcommit d6f97057b833f554fe94db3b048d43a78276db2f[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:24:18 2022 +1030
+
+    Add project room models
+
+[33mcommit f3971c61f3c0fa31b8cf4eb4716ab49130c90dc2[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:15:23 2022 +1030
+
+    Add calibrationSaveAndLoader gameobject to one field of calibration
+
+[33mcommit 9e2de8ce54543b081bfd3d65968ce0904b27263f[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 11:07:31 2022 +1030
+
+    Enable calibration scripts
+
+[33mcommit 83dd706a7995a4ce537c456d4c61640cf33c72a2[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 10:56:58 2022 +1030
+
+    Enable all scripts that have been disabled for debugging
+
+[33mcommit 6ab935bc1069ceb151acc90b34c98dffd5deaec9[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 09:27:26 2022 +1030
+
+    Remove debugging code 'return'
+
+[33mcommit 1b484f64df9cec18a131c765c7ad4e343dbe6208[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Thu Feb 24 09:08:22 2022 +1030
+
+    Add visualization prefab to the scene and to the element 0 of visualization array
+
+[33mcommit a09137bbd8f9d1659537fa21d3074c6d33b5ea8d[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Wed Feb 23 23:17:46 2022 +1030
+
+    Fix the issue that AK_radiuFeature get hang if no camera connected
+
+[33mcommit 1b2de1bc61a23cb82a4b4b0543021218ea7f9a94[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Wed Feb 23 22:45:03 2022 +1030
+
+    Disable scripts AK_radius Feature for fixing PUN2 networking issue
+
+[33mcommit 234a6340eef182a026208d331adcc1522ba41ed5[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Mon Feb 21 00:16:32 2022 +1030
+
+    Change playercontrol to playermanager
+
+[33mcommit a427f62aaa2ae61030b520107c6ec92ca4e603b1[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sun Feb 20 22:41:22 2022 +1030
+
+    Add local/remote user instantiation
+
+[33mcommit 7845f577346ea9a01a05580e62cba6f758df4db7[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Sun Feb 20 20:49:42 2022 +1030
+
+    Enable Photon PUN2 networking
+
+[33mcommit c2618d344a9f7c486734326a08ea6f9eebeadbb3[m
+Author: HugoTian <huayuantian@mymail.unisa.edu.au>
+Date:   Mon Feb 7 23:14:45 2022 +1030
+
+    Initial commit
